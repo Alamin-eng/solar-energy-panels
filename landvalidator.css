@@ -23,7 +23,7 @@
     top:2px;
     left:12px;
     background:linear-gradient(90deg, rgb(0, 0, 0),rgb(11, 159, 218),rgb(13, 14, 13));
-    width: 90vw;
+    width: 80%;
     height: 5.5em;
     padding:3px;
     border-radius: 20% 0% 0% 20%;
@@ -125,11 +125,11 @@ p{
     #header>nav>#ul1{
       margin-left: 11px;
       font-size:.4em;
-      width: 97%;
+      width: 91%;
     }
     .nav-link{
       font-size:.85em;
-      width: fit-content;
+      width: 92%;
     }
     /* .padhome{
       margin-left:40px;
