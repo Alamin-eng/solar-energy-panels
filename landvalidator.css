@@ -194,7 +194,7 @@ iframe{
 }
 #email:focus{
  background-color: rgb(87, 2, 87);
- width: 55%;
+ width: 45%;
  height: auto;
  transition: 0.25s ease-in-out;
  padding: 4px;
