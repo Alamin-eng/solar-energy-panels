@@ -143,9 +143,10 @@ p{
       font-size:.85em;
       width: 92%;
     }
-    /* .padhome{
-      margin-left:40px;
-    } */
+  #ul1> li>.padhome {
+
+      margin-left:30px;
+    }
     h4{
       font-size:.6em;
     }
@@ -226,4 +227,8 @@ iframe{
 #header>h1{
     margin-top:80px;
   }
+  #ul1> li>.padhome {
+
+      margin-left:30px;
+    }
   }
